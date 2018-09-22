@@ -59,5 +59,13 @@ li {
 a {
   color: #42b983;
 }
+
+a.router-link-exact-active {
+  color: #fff;
+  background: #42b983;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 15px;
+}
 </style>
 
